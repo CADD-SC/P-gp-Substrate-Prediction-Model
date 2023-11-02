@@ -1,6 +1,8 @@
 # P-gp-Substrate-Prediction-Model
 Machine Learning-based prediction model for P-glycoprotein substrate prediction in early stage drug discovery
+
 **Introduction:**
+
 Welcome to our repository, here we provide machine learning model to efficiently predict the P-glycoprotein substrate of target drug compounds in early stage of drug discovery process. 
 
 **Dependencies:**
