@@ -19,8 +19,8 @@ Welcome to our repository, here we provide machine learning model to efficiently
 
 **Execution:**
 
-Use Jupyter notebook to execute the code, download all the input files and Pgp_substrate.pkl from the tab “Tag” 
-Prepare your input file containing SMILES in .csv format and name the column as “SMILES”
+Use Jupyter notebook to execute the code file (Pgp_substrate_Prediction_model.ipynb) and download all the input files and model file (Pgp_substrate.pkl) before execution. 
+Prepare your input file containing SMILES in .csv format and name the column as “SMILES”.
 
 Make sure the paths of model, Pgp_substrate.pkl file and input files before executing the code file named as Pgp_substrate_Prediction_model.ipynb.
 
